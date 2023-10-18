@@ -37,7 +37,7 @@ const GenreList = () => {
             behavior: "smooth",
          });
 
-         document.title = "Wajik Streaming | Genre";
+         document.title = "Warungnime | Genre";
          online(setRefresh, setError);
          setIsLoading(true);
 

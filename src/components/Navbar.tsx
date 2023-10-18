@@ -31,7 +31,7 @@ const Navbar = () => {
                <div className="flex justify-between items-center flex-wrap mmd:block">
                   <div className="brand py-4">
                      <a href="/" className="font-bold text-2xl">
-                        Wajik Streaming
+                        Warungnime
                      </a>
                   </div>
                   <form
@@ -88,7 +88,7 @@ const Navbar = () => {
                </div>
                <div>
                   <h1 className="py-6 text-2xl font-semibold text-center msm:text-xl">
-                     NONTON GRATIS GAPAKE KARCIS
+                     Anime Streaming Sub Indo
                   </h1>
                </div>
             </nav>

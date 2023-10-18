@@ -22,7 +22,7 @@ const Anime = () => {
             behavior: "smooth",
          });
 
-         document.title = "Wajik Streaming | Anime";
+         document.title = "Warungnime | Anime";
          online(setRefresh, setError);
          setIsLoading(true);
 

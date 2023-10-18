@@ -3,7 +3,7 @@ import page404 from "../assets/page-404/page-404.svg";
 
 const NotFound = () => {
    useEffect(() => {
-      document.title = "Wajik Streaming | Not found";
+      document.title = "Warungnime | Not found";
    }, []);
 
    return (

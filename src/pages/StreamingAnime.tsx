@@ -39,7 +39,7 @@ const StreamingAnime = () => {
       return await response?.json();
    };
 
-   document.title = `Wajik Streaming | Anime : ${data?.title || ""} | Episode ${
+   document.title = `Warungnime | Anime : ${data?.title || ""} | Episode ${
       (data && episode) || ""
    }`;
 

@@ -37,7 +37,7 @@ const StreamingMovie = () => {
       return await response?.json();
    };
 
-   document.title = `Wajik Streaming | Movie : ${data?.title || ""}`;
+   document.title = `Warungnime | Movie : ${data?.title || ""}`;
 
    data &&
       scrollTo({

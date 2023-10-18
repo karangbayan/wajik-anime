@@ -22,7 +22,7 @@ const Ongoing = () => {
          behavior: "smooth",
       });
 
-      document.title = "Wajik Streaming | Ongoing";
+      document.title = "Warungnime | Ongoing";
       online(setRefresh, setError);
       setIsLoading(true);
 

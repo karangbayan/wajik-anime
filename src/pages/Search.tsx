@@ -26,7 +26,7 @@ const Search = () => {
             behavior: "smooth",
          });
 
-         document.title = `Wajik Streaming | Search : ${keyword}`;
+         document.title = `Warungnime | Search : ${keyword}`;
          online(setRefresh, setError);
          setIsLoading(true);
 

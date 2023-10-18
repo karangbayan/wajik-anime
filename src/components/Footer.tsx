@@ -11,7 +11,7 @@ const Footer = () => {
                <div className="text-center">
                   <div className="py-2 flex gap-8 justify-center">
                      <a
-                        href="https://github.com/wajik45"
+                        href="#"
                         target="_blank"
                         className="hover:text-zinc-400 transition"
                      >
@@ -27,7 +27,7 @@ const Footer = () => {
                         </svg>
                      </a>
                      <a
-                        href="https://instagram.com/wajik45"
+                        href="#"
                         className="hover:text-zinc-400 transition"
                         target="_blank"
                      >
@@ -45,13 +45,13 @@ const Footer = () => {
                   </div>
                   <div className="py-2">
                      <p>
-                        Made by{" "}
+                        Created By{" "}
                         <a
-                           href="https://github.com/wajik45"
+                           href="https://warungweb.online"
                            className="font-semibold hover:text-zinc-400 transition"
                            target="_blank"
                         >
-                           WAJIK45
+                           Warung Anime
                         </a>
                      </p>
                   </div>

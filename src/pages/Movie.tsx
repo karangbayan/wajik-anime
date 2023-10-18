@@ -22,7 +22,7 @@ const Movie = () => {
             behavior: "smooth",
          });
 
-         document.title = "Wajik Streaming | Movie";
+         document.title = "Warungnime | Movie";
          online(setRefresh, setError);
          setIsLoading(true);
 
